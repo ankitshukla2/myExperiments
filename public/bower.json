@@ -1,0 +1,20 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/ankitshukla2/myExperiments",
+  "authors": [
+    "ankit <ankit.shukla@zopper.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
