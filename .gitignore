@@ -1,5 +1,4 @@
 node_modules
 .DS_Store
 .idea/
-
-
+/public/client-app-anglur1/bower_components/
